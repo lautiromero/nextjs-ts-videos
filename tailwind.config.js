@@ -21,9 +21,11 @@ module.exports = {
         'th-primary-dark': 'var(--primary-dark)',
         'th-primary-medium': 'var(--primary-medium)',
         'th-primary-light': 'var(--primary-light)',
+        'th-primary-soft': 'var(--primary-soft)',
         'th-accent-dark': 'var(--accent-dark)',
         'th-accent-medium': 'var(--accent-medium)',
         'th-accent-light': 'var(--accent-light)',
+        'th-secondary-soft': 'var(--secondary-soft)'
       },
     },
   },

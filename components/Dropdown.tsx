@@ -8,7 +8,7 @@ const droptDownStyle = {
 
 export default function Dropdown() {
   return (
-    <div id="dropdown" className="z-40 bg-th-background-secondary divide-y divide-gray-100 rounded shadow w-44" style={droptDownStyle}>
+    <div id="dropdown" className="z-40 bg-th-secondary-soft divide-y divide-gray-100 rounded shadow w-44" style={droptDownStyle}>
         <ul className="py-1 text-sm text-th-primary-medium" aria-labelledby="dropdown-button">
         <li>
             <button type="button" className="inline-flex w-full px-4 py-2 hover:bg-th-primary-medium hover:text-th-background-secondary">Mockups</button>
